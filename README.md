@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ishadi Tharushika</h1>
-<h3 align="center">A passionate Tech Enthusiast from Sri Lanka.</h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h1 align="center">Hi 👋, I'm Ishadi <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate Frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmditharushika&label=Profile%20views&color=0e75b6&style=flat" alt="hmditharushika" /> </p>
 
-- 🔭 I’m currently working on **Hotel Management Systems**
+- 🔭 I’m currently working on **a Hotel Management System**
 
 - 🌱 I’m currently learning **Vue.js and Redux**
 
@@ -19,7 +21,7 @@
 <a href="https://linkedin.com/in/ishadi-tharushika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishadi-tharushika" height="30" width="40" /></a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <h3>Programming Languages</h3>
 
