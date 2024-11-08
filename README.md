@@ -76,4 +76,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmditharushika&show_icons=true&locale=en" alt="hmditharushika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmditharushika&" alt="hmditharushika" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HMDITharushika&" alt="hmditharushika" /></p>
